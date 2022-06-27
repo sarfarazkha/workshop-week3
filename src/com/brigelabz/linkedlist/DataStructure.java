@@ -6,7 +6,10 @@ public class DataStructure {
         LinkedList.push(10);
         LinkedList.push(30);
         LinkedList.push(20);
-
         LinkedList.print();
+
+        LinkedList.Search(30);
+
+
     }
 }
